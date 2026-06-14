@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou Willian 👋
 
-<!--
-**WillBillz/WillBillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | React · Next.js · Node.js · n8n
 
-Here are some ideas to get you started:
+Construo aplicações web completas e automações inteligentes, com foco em produtos digitais de alta performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Stack Principal
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Firebase · REST APIs  
+**Automação & IA:** n8n · OpenAI API · LangChain  
+**Pagamentos & Deploy:** Stripe · Vercel · GitHub Actions
+
+---
+
+## 🛠️ Projetos
+
+- **[Or-culo-dos-Sonhos](https://github.com/WillBillz/Or-culo-dos-Sonhos)** — aplicação JavaScript
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-willianpdev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianpdev)
+
+---
+
+💼 Disponível para **freelance** e projetos **remotos**
