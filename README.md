@@ -6,9 +6,9 @@
 
 *I build complete digital products — from concept to deployment — powered by AI.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/willian-de-paula-oliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/willianpdev)
 [![Email](https://img.shields.io/badge/Email-willian.p.oliveira350%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:willian.p.oliveira350@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Projects-2%20deployed-7C6EF7?style=flat-square)](https://imovelai.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-7C6EF7?style=flat-square)](https://claude.ai/artifact/RVkUHDTMGtsJCLpUfzF5HP)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm open to freelance projects, full-time remote roles, and partnerships.
 
 - 📧 **Email:** willian.p.oliveira350@gmail.com
 - 📱 **WhatsApp:** +55 (15) 99752-7584
-- 💼 **LinkedIn:** [linkedin.com/in/willian-de-paula-oliveira](https://linkedin.com/in/willian-de-paula-oliveira)
+- 💼 **LinkedIn:** [linkedin.com/in/willianpdev](https://linkedin.com/in/willianpdev)
 
 ---
 
